@@ -23,3 +23,9 @@ Este site fornece informações sobre quem sou, os serviços que ofereço, as va
 - **CSS:** Estilo e layout do site.
 - **Google Fonts:** Fonte "Roboto" para estilizar o texto.
 - **Responsividade:** O design foi ajustado para funcionar bem em dispositivos móveis e desktops.
+
+## Acesso
+
+```
+https://bs-code-00.vercel.app/
+```
